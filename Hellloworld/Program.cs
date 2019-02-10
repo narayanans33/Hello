@@ -10,7 +10,7 @@ namespace Hellloworld
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Maghizchi");
+			Console.WriteLine("Maghizchi !");
 		}
 	}
 }
